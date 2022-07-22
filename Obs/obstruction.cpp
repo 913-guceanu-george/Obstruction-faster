@@ -1,10 +1,10 @@
 #include "obs.h"
 
-Obs::Obs(QWidget *parent)
+Obstruction::Obstruction(QWidget *parent)
     : QMainWindow(parent)
 {
     ui.setupUi(this);
 }
 
-Obs::~Obs()
+Obstruction::~Obstruction()
 {}
