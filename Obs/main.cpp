@@ -2,6 +2,6 @@
 
 int main(int argc, char **argv)
 {
-    std::cout << "Haidee\n";
+    std::cout << "Let's get this project started\n";
     return 0;
 }
