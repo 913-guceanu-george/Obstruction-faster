@@ -1,4 +1,4 @@
-#include "obs.h"
+#include "obstruction.h"
 
 Obstruction::Obstruction(QWidget *parent)
     : QMainWindow(parent)
@@ -7,4 +7,5 @@ Obstruction::Obstruction(QWidget *parent)
 }
 
 Obstruction::~Obstruction()
-{}
+{
+}
