@@ -1,0 +1,9 @@
+# ninja log v5
+1	265	1659049890314264164	untitled_autogen/timestamp	2442193ac176fbcf
+1	265	1659049890314264164	untitled_autogen/mocs_compilation.cpp	2442193ac176fbcf
+1	265	1659049890314264164	/home/marian/Code/Obstruction-faster/build-untitled-Desktop-Debug/untitled_autogen/timestamp	2442193ac176fbcf
+1	265	1659049890314264164	/home/marian/Code/Obstruction-faster/build-untitled-Desktop-Debug/untitled_autogen/mocs_compilation.cpp	2442193ac176fbcf
+265	2066	1659049892134264174	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.o	d95e349c3fba8f07
+266	2276	1659049892344264175	CMakeFiles/untitled.dir/obstruction.cpp.o	e0195e500240d0b4
+265	2324	1659049892384264175	CMakeFiles/untitled.dir/main.cpp.o	c4aaafe881a0ad28
+2324	2747	1659049892814264177	untitled	5a9a9b99cbbd4be0
