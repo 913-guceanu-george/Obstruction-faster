@@ -1,9 +1,0 @@
-/home/marian/Code/Obstruction-faster/build-untitled-Desktop-Debug/CMakeFiles/untitled.dir
-/home/marian/Code/Obstruction-faster/build-untitled-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/marian/Code/Obstruction-faster/build-untitled-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/marian/Code/Obstruction-faster/build-untitled-Desktop-Debug/CMakeFiles/list_install_components.dir
-/home/marian/Code/Obstruction-faster/build-untitled-Desktop-Debug/CMakeFiles/install.dir
-/home/marian/Code/Obstruction-faster/build-untitled-Desktop-Debug/CMakeFiles/install/local.dir
-/home/marian/Code/Obstruction-faster/build-untitled-Desktop-Debug/CMakeFiles/install/strip.dir
-/home/marian/Code/Obstruction-faster/build-untitled-Desktop-Debug/CMakeFiles/untitled_autogen_timestamp_deps.dir
-/home/marian/Code/Obstruction-faster/build-untitled-Desktop-Debug/CMakeFiles/untitled_autogen.dir

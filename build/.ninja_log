@@ -1,0 +1,8 @@
+# ninja log v5
+49	3033	1659050571383054502	CMakeFiles/obstruction.dir/main.cpp.o	4eb84e88af778219
+3033	3409	1659050571753049097	obstruction	86cb093283729c5c
+2	49	1659050568383098313	obstruction_autogen/timestamp	87c22310c693253
+2	49	1659050568383098313	obstruction_autogen/mocs_compilation.cpp	87c22310c693253
+2	49	1659050568383098313	/home/marian/Code/Obstruction-faster/Obs/build/obstruction_autogen/timestamp	87c22310c693253
+2	49	1659050568383098313	/home/marian/Code/Obstruction-faster/Obs/build/obstruction_autogen/mocs_compilation.cpp	87c22310c693253
+49	69	1659050568413097875	CMakeFiles/obstruction.dir/obstruction_autogen/mocs_compilation.cpp.o	6c7b9f4caa551031
