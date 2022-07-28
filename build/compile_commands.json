@@ -1,12 +1,12 @@
 [
 {
-  "directory": "/home/marian/Code/Obstruction-faster/Obs/build",
-  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/marian/Code/Obstruction-faster/Obs/build/obstruction_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -g -fPIC -std=gnu++20 -o CMakeFiles/obstruction.dir/obstruction_autogen/mocs_compilation.cpp.o -c /home/marian/Code/Obstruction-faster/Obs/build/obstruction_autogen/mocs_compilation.cpp",
-  "file": "/home/marian/Code/Obstruction-faster/Obs/build/obstruction_autogen/mocs_compilation.cpp"
+  "directory": "/home/marian/Code/Obstruction-faster/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/marian/Code/Obstruction-faster/build/obstruction_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -g -fPIC -std=gnu++20 -o CMakeFiles/obstruction.dir/obstruction_autogen/mocs_compilation.cpp.o -c /home/marian/Code/Obstruction-faster/build/obstruction_autogen/mocs_compilation.cpp",
+  "file": "/home/marian/Code/Obstruction-faster/build/obstruction_autogen/mocs_compilation.cpp"
 },
 {
-  "directory": "/home/marian/Code/Obstruction-faster/Obs/build",
-  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/marian/Code/Obstruction-faster/Obs/build/obstruction_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -g -fPIC -std=gnu++20 -o CMakeFiles/obstruction.dir/main.cpp.o -c /home/marian/Code/Obstruction-faster/Obs/main.cpp",
-  "file": "/home/marian/Code/Obstruction-faster/Obs/main.cpp"
+  "directory": "/home/marian/Code/Obstruction-faster/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/marian/Code/Obstruction-faster/build/obstruction_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -g -fPIC -std=gnu++20 -o CMakeFiles/obstruction.dir/main.cpp.o -c /home/marian/Code/Obstruction-faster/main.cpp",
+  "file": "/home/marian/Code/Obstruction-faster/main.cpp"
 }
 ]

@@ -83,7 +83,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/marian/Code/Obstruction-faster/Obs/build"
+			"value" : "/home/marian/Code/Obstruction-faster/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -643,7 +643,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/marian/Code/Obstruction-faster/Obs"
+			"value" : "/home/marian/Code/Obstruction-faster"
 		},
 		{
 			"name" : "CMAKE_INSTALL_BINDIR",
@@ -1935,11 +1935,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "(This variable does not exist and should not be used)"
+					"value" : "Path to a program."
 				}
 			],
-			"type" : "UNINITIALIZED",
-			"value" : ""
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/git"
 		},
 		{
 			"name" : "HAVE_STDATOMIC",
@@ -7171,7 +7171,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/marian/Code/Obstruction-faster/Obs/build"
+			"value" : "/home/marian/Code/Obstruction-faster/build"
 		},
 		{
 			"name" : "obstruction_IS_TOP_LEVEL",
@@ -7195,7 +7195,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/marian/Code/Obstruction-faster/Obs"
+			"value" : "/home/marian/Code/Obstruction-faster"
 		},
 		{
 			"name" : "pkgcfg_lib_PKG_XKB_xkbcommon",

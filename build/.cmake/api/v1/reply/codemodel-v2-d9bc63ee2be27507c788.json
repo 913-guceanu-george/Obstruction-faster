@@ -295,7 +295,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "obstruction::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-obstruction-Debug-174a9c06a47f07c9f5ce.json",
+					"jsonFile" : "target-obstruction-Debug-2af056c638d927dc8a1b.json",
 					"name" : "obstruction",
 					"projectIndex" : 0
 				},
@@ -319,8 +319,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/marian/Code/Obstruction-faster/Obs/build",
-		"source" : "/home/marian/Code/Obstruction-faster/Obs"
+		"build" : "/home/marian/Code/Obstruction-faster/build",
+		"source" : "/home/marian/Code/Obstruction-faster"
 	},
 	"version" : 
 	{

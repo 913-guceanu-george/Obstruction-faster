@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /usr/bin/cmake --regenerate-during-build -S/home/marian/Code/Obstruction-faster/Obs -B/home/marian/Code/Obstruction-faster/Obs/build
+  command = /usr/bin/cmake --regenerate-during-build -S/home/marian/Code/Obstruction-faster -B/home/marian/Code/Obstruction-faster/build
   description = Re-running CMake...
   generator = 1
 

@@ -1,9 +1,9 @@
 obstruction_autogen/timestamp: \
-	/home/marian/Code/Obstruction-faster/Obs/CMakeLists.txt \
-	/home/marian/Code/Obstruction-faster/Obs/build/CMakeFiles/3.23.3/CMakeCCompiler.cmake \
-	/home/marian/Code/Obstruction-faster/Obs/build/CMakeFiles/3.23.3/CMakeCXXCompiler.cmake \
-	/home/marian/Code/Obstruction-faster/Obs/build/CMakeFiles/3.23.3/CMakeSystem.cmake \
-	/home/marian/Code/Obstruction-faster/Obs/main.cpp \
+	/home/marian/Code/Obstruction-faster/CMakeLists.txt \
+	/home/marian/Code/Obstruction-faster/build/CMakeFiles/3.23.3/CMakeCCompiler.cmake \
+	/home/marian/Code/Obstruction-faster/build/CMakeFiles/3.23.3/CMakeCXXCompiler.cmake \
+	/home/marian/Code/Obstruction-faster/build/CMakeFiles/3.23.3/CMakeSystem.cmake \
+	/home/marian/Code/Obstruction-faster/main.cpp \
 	/usr/lib/cmake/Qt6/3rdparty/kwin/FindXKB.cmake \
 	/usr/lib/cmake/Qt6/FindWrapAtomic.cmake \
 	/usr/lib/cmake/Qt6/FindWrapOpenGL.cmake \

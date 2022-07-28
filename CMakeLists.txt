@@ -12,7 +12,7 @@ set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOUIC ON)
 
 find_package(Qt6 REQUIRED COMPONENTS Core Widgets Gui)
-qt_standard_project_setup()
+# qt_standard_project_setup()
 
 add_executable(obstruction main.cpp)
 

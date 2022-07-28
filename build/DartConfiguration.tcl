@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: /home/marian/Code/Obstruction-faster/Obs
-BuildDirectory: /home/marian/Code/Obstruction-faster/Obs/build
+SourceDirectory: /home/marian/Code/Obstruction-faster
+BuildDirectory: /home/marian/Code/Obstruction-faster/build
 
 # Where to place the cost data store
 CostDataFile: 
@@ -27,7 +27,7 @@ SubmitInactivityTimeout:
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "/usr/bin/cmake" "/home/marian/Code/Obstruction-faster/Obs"
+ConfigureCommand: "/usr/bin/cmake" "/home/marian/Code/Obstruction-faster"
 MakeCommand: /usr/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}"
 DefaultCTestConfigurationType: Release
 
@@ -45,7 +45,7 @@ SVNOptions:
 SVNUpdateOptions: 
 
 # Git options
-GITCommand: 
+GITCommand: /usr/bin/git
 GITInitSubmodules: 
 GITUpdateOptions: 
 GITUpdateCustom: 
@@ -58,9 +58,9 @@ P4UpdateOptions:
 P4UpdateCustom: 
 
 # Generic update command
-UpdateCommand: 
+UpdateCommand: /usr/bin/git
 UpdateOptions: 
-UpdateType: 
+UpdateType: git
 
 # Compiler info
 Compiler: /usr/bin/g++
