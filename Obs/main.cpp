@@ -1,7 +1,12 @@
 #include <iostream>
+#include <QApplication>
+#include <QMainWindow>
 
 int main(int argc, char **argv)
 {
-    std::cout << "Let's get this project started\n";
-    return 0;
+    QApplication app(argc, argv);
+    QMainWindow w;
+    w.resize(500, 500);
+    w.show();
+    return app.exec();
 }
