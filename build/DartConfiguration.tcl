@@ -4,17 +4,17 @@
 
 
 # Configuration directories and files
-SourceDirectory: /home/marian/Code/Obstruction-faster
-BuildDirectory: /home/marian/Code/Obstruction-faster/build
+SourceDirectory: C:/Users/Marian Guceanu/Documents/Code/Obstruction-faster
+BuildDirectory: C:/Users/Marian Guceanu/Documents/Code/Obstruction-faster/build
 
 # Where to place the cost data store
 CostDataFile: 
 
 # Site is something like machine.domain, i.e. pragmatic.crd
-Site: gumci
+Site: DESKTOP-61C7L4B
 
 # Build name is osname-revision-compiler, i.e. Linux-2.4.2-2smp-c++
-BuildName: Linux-g++
+BuildName: Win32-mingw32-make
 
 # Subprojects
 LabelsForSubprojects: 
@@ -27,8 +27,8 @@ SubmitInactivityTimeout:
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "/usr/bin/cmake" "/home/marian/Code/Obstruction-faster"
-MakeCommand: /usr/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}"
+ConfigureCommand: "C:/Qt/Tools/CMake_64/bin/cmake.exe" "C:/Users/Marian Guceanu/Documents/Code/Obstruction-faster"
+MakeCommand: C:/Qt/Tools/CMake_64/bin/cmake.exe --build . --config "${CTEST_CONFIGURATION_TYPE}" -- -i
 DefaultCTestConfigurationType: Release
 
 # version control
@@ -45,7 +45,7 @@ SVNOptions:
 SVNUpdateOptions: 
 
 # Git options
-GITCommand: /usr/bin/git
+GITCommand: C:/Program Files/Git/cmd/git.exe
 GITInitSubmodules: 
 GITUpdateOptions: 
 GITUpdateCustom: 
@@ -58,13 +58,13 @@ P4UpdateOptions:
 P4UpdateCustom: 
 
 # Generic update command
-UpdateCommand: /usr/bin/git
+UpdateCommand: C:/Program Files/Git/cmd/git.exe
 UpdateOptions: 
 UpdateType: git
 
 # Compiler info
-Compiler: /usr/bin/g++
-CompilerVersion: 12.1.0
+Compiler: C:/Qt/Tools/mingw1120_64/bin/g++.exe
+CompilerVersion: 11.2.0
 
 # Dynamic analysis (MemCheck)
 PurifyCommand: 
@@ -76,12 +76,12 @@ CudaSanitizerCommand:
 CudaSanitizerCommandOptions: 
 MemoryCheckType: 
 MemoryCheckSanitizerOptions: 
-MemoryCheckCommand: /usr/bin/valgrind
+MemoryCheckCommand: MEMORYCHECK_COMMAND-NOTFOUND
 MemoryCheckCommandOptions: 
 MemoryCheckSuppressionFile: 
 
 # Coverage
-CoverageCommand: /usr/bin/gcov
+CoverageCommand: C:/Qt/Tools/mingw1120_64/bin/gcov.exe
 CoverageExtraFlags: -l
 
 # Testing options
