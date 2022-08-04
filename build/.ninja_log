@@ -1,8 +1,0 @@
-# ninja log v5
-1	63	1659051038743166220	obstruction_autogen/timestamp	9446a47e6a8d1627
-1	63	1659051038743166220	obstruction_autogen/mocs_compilation.cpp	9446a47e6a8d1627
-1	63	1659051038743166220	/home/marian/Code/Obstruction-faster/build/obstruction_autogen/timestamp	9446a47e6a8d1627
-1	63	1659051038743166220	/home/marian/Code/Obstruction-faster/build/obstruction_autogen/mocs_compilation.cpp	9446a47e6a8d1627
-63	84	1659051038783165120	CMakeFiles/obstruction.dir/obstruction_autogen/mocs_compilation.cpp.o	74a7863a195185cb
-63	3082	1659051041793082628	CMakeFiles/obstruction.dir/main.cpp.o	9d0530a5743c3bc4
-3084	3443	1659051042153072785	obstruction	86cb093283729c5c
