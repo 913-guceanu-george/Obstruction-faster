@@ -1,5 +1,6 @@
 #include <utility>
 #include <exception>
+#include <string>
 #include "../Exceptions/exceptions.hpp"
 
 class Board
@@ -12,4 +13,6 @@ private:
 public:
     Board(int size);
     void putPiece(std::pair<int, int> pos, int player);
+    std::string toString();
+    ~Board();
 };

@@ -14,7 +14,11 @@ set(CMAKE_AUTOUIC ON)
 # find_package(Qt6 REQUIRED COMPONENTS Core Widgets Gui)
 # qt_standard_project_setup()
 
-add_executable(obstruction main.cpp)
+add_executable(obstruction 
+Board/board.cpp
+Board/board.hpp
+Exceptions/exceptions.hpp
+main.cpp)
 
 # target_link_libraries(obstruction PRIVATE Qt6::Core Qt6::Widgets Qt6::Gui)
 
