@@ -12,7 +12,14 @@ private:
 
 public:
     Board(int size);
+    // Getter so we can verify the position validity later.
+    int getPiece(std::pair<int, int> pos);
+
+    // Function to set a piece accordingly, so that it visually marks for the
+    // other player which positions are blocked.
     void putPiece(std::pair<int, int> pos, int player);
+
+    // Adapting the board as a string, for a more pleasant visual look.
     std::string toString();
     ~Board();
 };
