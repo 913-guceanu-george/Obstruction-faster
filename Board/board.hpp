@@ -12,6 +12,7 @@ private:
 
 public:
     Board(int size);
+    Board() { this->size = 0, this->board = nullptr; }
     // Getter so we can verify the position validity later.
     int getPiece(std::pair<int, int> pos);
 

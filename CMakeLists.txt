@@ -18,6 +18,8 @@ add_executable(obstruction
 Board/board.cpp
 Board/board.hpp
 Exceptions/exceptions.hpp
+Game/game.cpp
+Game/game.hpp
 main.cpp)
 
 # target_link_libraries(obstruction PRIVATE Qt6::Core Qt6::Widgets Qt6::Gui)
