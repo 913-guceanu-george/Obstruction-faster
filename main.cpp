@@ -7,7 +7,7 @@ int main(int argc, char **argv)
 {
     Board b = Board(7);
     std::pair<int, int> pos;
-    pos.first = 1;
+    pos.first = 0;
     pos.second = 1;
     b.putPiece(pos, 1);
     // pos.first = 5;

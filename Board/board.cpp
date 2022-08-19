@@ -48,6 +48,7 @@ void Board::putPiece(std::pair<int, int> pos, int player)
         this->board[x + 1][y - 1] = -1;
         this->board[x + 1][y] = -1;
         this->board[x + 1][y + 1] = -1;
+        return;
     }
 
     // Checking if a piece is put on the last row
